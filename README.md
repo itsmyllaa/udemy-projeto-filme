@@ -68,3 +68,15 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+Interface:
+
+![Captura de Tela 2024-02-01 às 15 20 12](https://github.com/itsmyllaa/udemy-projeto-filme/assets/60410635/5059bb8c-ddbe-45df-b949-a91479c07fd8)
+
+![Captura de Tela 2024-02-01 às 15 20 23](https://github.com/itsmyllaa/udemy-projeto-filme/assets/60410635/967ad210-b520-4407-ba2c-8d465e2a48df)
+
+![Captura de Tela 2024-02-01 às 15 20 48](https://github.com/itsmyllaa/udemy-projeto-filme/assets/60410635/aaaca8fe-e3c9-46c3-9b79-d5333994a1ad)
+
+![Captura de Tela 2024-02-01 às 15 17 35](https://github.com/itsmyllaa/udemy-projeto-filme/assets/60410635/74a5d370-9f11-45c4-9119-fa3b8d1a71a9)
+
+![Captura de Tela 2024-02-01 às 15 20 00](https://github.com/itsmyllaa/udemy-projeto-filme/assets/60410635/3361736a-12c1-4dea-9899-2a0f4444e4b1)
